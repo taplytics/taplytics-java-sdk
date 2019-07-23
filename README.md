@@ -5,7 +5,7 @@ Taplytics decisions is an API to quickly use Taplytics features and functionalit
 
 ## Initialization
 
-First, import the Java SDK as a dependency for your project.
+First, import the taplytics-java-sdk JAR into your project.
 
 Then, import the API client into the desired class:
 ```java
