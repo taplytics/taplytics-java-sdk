@@ -2,6 +2,7 @@
 
 Taplytics decisions is an API to quickly use Taplytics features and functionality at edge.
 
+**[Get started with Taplytics](https://docs.taplytics.com/docs/java-sdk)** | **[View the Javadoc](https://s3.amazonaws.com/cdn.taplytics.com/javasdk/javadoc/com/taplytics/sdk/package-summary.html)** |  **[Commercial License / Terms](http://taplytics.com/terms)**
 
 ## Initialization
 
