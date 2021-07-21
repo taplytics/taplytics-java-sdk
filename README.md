@@ -1,6 +1,6 @@
 # Taplytics Java SDK
 
-Taplytics decisions is an API to quickly use Taplytics features and functionality at edge.
+Taplytics Java SDK is an sdk to enable features such as Experimentation and Feature Flag functionality.
 
 **[Get started with Taplytics](https://docs.taplytics.com/docs/java-sdk)** | **[View the Javadoc](https://s3.amazonaws.com/cdn.taplytics.com/javasdk/javadoc/com/taplytics/sdk/package-summary.html)** |  **[Commercial License / Terms](http://taplytics.com/terms)**
 
